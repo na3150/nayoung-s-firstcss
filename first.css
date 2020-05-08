@@ -1,0 +1,8 @@
+html,
+body {height: 100%; font-family: "Open sans", sans-serif;}
+h1 { font-size: 70px;}
+h2 { font-size: 36px;color: lightpink }
+p{ font-size: 13px; line-height: 2;}
+p{ color: black}
+img { max-width: 50%;;}
+u1{background-color: rgb(248, 213, 218);}
